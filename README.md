@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Thi Nhu Y Ho 👋
 
-<!--
-**yho02/yho02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer passionate about leveraging AI to build intuitive, educational tools that solve real-world problems.
 
-Here are some ideas to get you started:
+### 🚀 Featured Project: Active Syntax Trainer
+I am currently developing the **[Active Syntax Trainer](https://github.com/yho02/active-syntax-trainer)**. 
+It is an AI-powered environment designed to help English learners build real conversational reflexes through active sentence construction, real-time AI feedback, and dynamic level tracking. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data Analysis Projects
+* **[San Francisco Airbnb Price Prediction](https://github.com/yho02/San-Francisco-Airbnb-Prices-Prediction-Models)** Analyzed 10,000 listings to uncover trends in Airbnb prices using Linear Regression, Random Forest, and Grandient Boosting. 
+* **[Nvidia Stock Dashboard](https://github.com/yho02/Nvidia-stock-dashboard)** Conducted a deep dive into NVIDIA's stock performance using Python, SQL, and Tableau. 
+
+### 
+
+### 💻 Tech Stack
+* **Languages:** Python, SQL, R, Java
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/thi-nhu-y-ho-3b736525a/)
+* [Email](mailto:yhotn2003@gmail.com)
